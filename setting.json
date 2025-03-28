@@ -1,0 +1,45 @@
+{
+    "workbench.colorTheme": "Dark Modern",
+    "editor.fontFamily": "Cascadia Code, JetBrains Mono, Fira Code, monospace",
+    "editor.fontLigatures": true,
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.cursorBlinking": "expand",
+    "editor.bracketPairColorization.enabled": true,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.multiCursorModifier": "alt",
+    "editor.minimap.enabled": false,
+    "editor.renderWhitespace": "all",
+    "editor.rulers": [
+        80,
+        120
+    ],
+    "editor.wordWrap": "on",
+    "editor.smoothScrolling": true,
+    "editor.scrollBeyondLastLine": false,
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": false,
+        "strings": true
+    },
+    "editor.inlineSuggest.enabled": true,
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 1000,
+    "terminal.integrated.fontFamily": "Cascadia Code, monospace",
+    "extensions.autoUpdate": true,
+    "extensions.ignoreRecommendations": false,
+    "eslint.enable": true,
+    "eslint.validate": [
+        "javascript",
+        "javascriptreact",
+        "typescript",
+        "typescriptreact"
+    ],
+    "gitlens.hovers.enabled": true,
+    "gitlens.codeLens.enabled": true,
+    "importCost.enabled": true,
+    "errorLens.enabled": true,
+    "errorLens.messageEnabled": true,
+    "quokka.autoStart": true,
+
+}
