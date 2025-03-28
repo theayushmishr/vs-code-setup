@@ -34,6 +34,8 @@
   - Use `ALT + Shift + ↑ or ↓` to duplicate the current line above or below.
 - **CTRL + L** – Comment the highlighted code.
 - **CTRL + `** – Open terminal.
+- CTRL + B – Toggle the sidebar visibility.
+- CTRL + SHIFT + T – Reopen the last closed file.
 
 ##  Extensions
 - **Auto Rename Tag** – Automatically renames paired HTML/XML tags.
